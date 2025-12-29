@@ -2,8 +2,8 @@
 
 **Developer:** DAVID KENEDY EMMANUEL
 
-## Overview
-Interactive Python dashboard analyzing global health & population trends using data cleaning, visualization, and storytelling.
+## Project Overview
+This project presents an interactive dashboard that visualizes community health and population indicators to support data-driven decision making in public health planning.
 
 This project includes:
 - Data cleaning & feature engineering with Pandas
@@ -15,10 +15,21 @@ This project includes:
 Experience the interactive dashboard live here:  
 [🌐 Open Dashboard](https://community-health-population-dashboard-lrkdtunjpgv2jknah8tou5.streamlit.app/)
 
-## Features
+## Key Features
 - Select multiple countries and year ranges
 - View key metrics: life expectancy, mortality rate, health expenditure
 - Explore trends over time and visualize relationships
-- Download cleaned datasets (optional)
+## Tools & Technologies
+-Python
+-Pandas
+-Matplotlib
+-Dashboard framework(streamlit)
+-Github
 
-## Project Structure
+##  How to Run
+-Clone the repository
+-install requirements
+-Run the dashboard script
+
+## Results
+-The dashboard provides clear insights into population-health relationships useful for community health plamnning.

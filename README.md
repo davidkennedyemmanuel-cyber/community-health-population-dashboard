@@ -31,5 +31,10 @@ Experience the interactive dashboard live here:
 -install requirements
 -Run the dashboard script
 
+## 📎 Live Project Links
+- GitHub Repository: https://github.com/davidkennedyemmanuel-cyber/community-health-population-dashboard
+- Kaggle Notebook: https://www.kaggle.com/code/davidkennedyemmanuel/community-healh-and-population-dashboard/edit
+- Devpost Project: https://devpost.com/software/community-health-population-dashboard
+
 ## Results
 -The dashboard provides clear insights into population-health relationships useful for community health plamnning.
